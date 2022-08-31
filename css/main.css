@@ -1,0 +1,7 @@
+@import "./reset.css" screen;
+@import "./variables.css" screen;
+@import "./base.css" screen;
+@import "./article.css" screen;
+@import "./navbar.css" screen;
+@import "./sections/pancakes-rule.css" screen;
+@import "./footer.css" screen;
